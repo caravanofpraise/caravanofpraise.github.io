@@ -4,8 +4,4 @@
     <loc>http://caravanofpraise.com/index.html</loc>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>http://caravanofpraise.com/ms</loc>
-    <priority>0.7</priority>
-  </url>
 </urlset>
