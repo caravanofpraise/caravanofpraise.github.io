@@ -1,1 +1,1 @@
-(function(){$(function(){})}).call(this);
+(function(){$(function(){return WebFont.load({custom:{families:["league-gothic","franklin-gothic"],urls:["/assets/css/fonts.css"]},active:function(){return $(".bigtext-wrapper").bigtext()}})})}).call(this);
