@@ -1,0 +1,1 @@
+(function(){var t;t="/assets/fonts",WebFont.load({google:{families:["Shadows+Into+Light","Amatic+SC"]},active:function(){return $(".bigtext-wrapper").bigtext()}})}).call(this);
