@@ -1,1 +1,1 @@
-(function(){var t;t="/assets/fonts",WebFont.load({google:{families:["Amatic+SC"]},active:function(){return $(".bigtext").bigtext()}})}).call(this);
+(function(){}).call(this);
