@@ -1,1 +1,1 @@
-(function(){$(function(){var n;return FastClick.attach(document.body),n=$(".gallery .container"),n.masonry(),n.imagesLoaded(function(){return n.masonry()}),$("img").unveil(200,function(){return n.masonry()})})}).call(this);
+(function(){$(function(){var n;return FastClick.attach(document.body),n=$(".gallery .container"),n.masonry(),n.imagesLoaded(function(){return n.masonry()}),$("img").unveil(200,function(){return n.masonry()}),$(".fitvids").fitVids()})}).call(this);
